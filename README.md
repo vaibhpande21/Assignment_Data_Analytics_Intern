@@ -54,7 +54,7 @@ This repository contains the deliverables and analysis from a Data Analytics int
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/vaibhpande21/Assignment_Data_Analytics_Intern.git
+   https://github.com/vaibhpande21/Assignment_Data_Analytics_Intern.git
    ```
 
 2. Open the Jupyter Notebook (`Assignment_Data_Analytics_Intern.ipynb`) to review the analysis steps and visualizations.
